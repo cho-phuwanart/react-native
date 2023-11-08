@@ -1,126 +1,46 @@
 {
   "project_info": {
-    "project_number": "719075307381",
-    "firebase_url": "https://tiny-little-backend-develop-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "tiny-little-backend-develop",
-    "storage_bucket": "tiny-little-backend-develop.appspot.com"
+    "project_number": "655112791220",
+    "firebase_url": "https://tiny-little-backend-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tiny-little-backend",
+    "storage_bucket": "tiny-little-backend.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:719075307381:android:455de58cada911a58e6d3c",
-        "android_client_info": {
-          "package_name": "com.hengtech.tinylittledeva"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAdlEltWDRWnse9ROwrVsMwpXnSCUU5utU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "719075307381-2grj24regnel2dm6hm6ogimvfi9eq7v5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.tinylittle.ios"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:719075307381:android:902fb75346fcb6e48e6d3c",
-        "android_client_info": {
-          "package_name": "com.ht.tinylittlefly"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAdlEltWDRWnse9ROwrVsMwpXnSCUU5utU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "719075307381-2grj24regnel2dm6hm6ogimvfi9eq7v5.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.tinylittle.ios"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:719075307381:android:f047d326c1a280818e6d3c",
+        "mobilesdk_app_id": "1:655112791220:android:3044404e89222db3ade3e1",
         "android_client_info": {
           "package_name": "com.tinylittle.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "719075307381-cvs0pqn243efc8p3rflklom4l5fch3k7.apps.googleusercontent.com",
+          "client_id": "655112791220-6qbjc4g6g28s8g2m7b3aiu7c16b2p075.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.tinylittle.app",
-            "certificate_hash": "d944fd88160d46afce9698b9f7874f8d046a60a3"
+            "certificate_hash": "8e2b49f5d97e7208940f9f9da497483ce15dc428"
           }
         },
         {
-          "client_id": "719075307381-put1fqu2scdr4phq7l18glnvh7tq142p.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.tinylittle.app",
-            "certificate_hash": "22659c62604f466a34255e5b38b9970d4a2e4acd"
-          }
-        },
-        {
-          "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
+          "client_id": "655112791220-u3ef4ha618ete69md7fr7j2518uqf5in.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAdlEltWDRWnse9ROwrVsMwpXnSCUU5utU"
+          "current_key": "AIzaSyD3FwSyGHd_ivriYGHUs1oPDPZPxp8rRzo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "719075307381-f8ob0i4i4bvp4oc923bdag74nn2d4gup.apps.googleusercontent.com",
+              "client_id": "655112791220-h79uirb3953kdaagov5f3v8jao6vfeb4.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "719075307381-2grj24regnel2dm6hm6ogimvfi9eq7v5.apps.googleusercontent.com",
+              "client_id": "655112791220-00qcf08flf6q78vg4h2q8cno0airvnb2.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.tinylittle.ios"
