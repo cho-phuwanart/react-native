@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655112791220",
+    "firebase_url": "https://tiny-little-backend-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tiny-little-backend",
+    "storage_bucket": "tiny-little-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655112791220:android:3044404e89222db3ade3e1",
+        "android_client_info": {
+          "package_name": "com.tinylittle.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655112791220-6qbjc4g6g28s8g2m7b3aiu7c16b2p075.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinylittle.app",
+            "certificate_hash": "8e2b49f5d97e7208940f9f9da497483ce15dc428"
+          }
+        },
+        {
+          "client_id": "655112791220-u3ef4ha618ete69md7fr7j2518uqf5in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3FwSyGHd_ivriYGHUs1oPDPZPxp8rRzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655112791220-h79uirb3953kdaagov5f3v8jao6vfeb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655112791220-00qcf08flf6q78vg4h2q8cno0airvnb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tinylittle.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
